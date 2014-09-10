@@ -1,0 +1,39 @@
+body{
+    background-color: darkturquoise
+}
+h1 {
+    border:solid;
+    border-color: black;
+    padding-left: 525px
+    
+ }
+ nav a {
+    color:blue;
+    padding:175px;
+    font-size:20px
+        
+}
+.uppercase{
+    text-transform: uppercase;
+    font-size: 38px;
+}
+p a{
+    font-size: 40px;
+    color: darkblue
+}
+img{
+    width:300px;
+    border:15px solid white;
+}
+img{
+    height:300px
+}
+h1 {
+    border:solid;
+    border-color: black;
+    padding-left: 525px
+    
+ }
+  p {
+     font-size:15px;
+ }
